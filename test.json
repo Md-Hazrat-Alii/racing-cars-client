@@ -1,0 +1,88 @@
+[
+    {
+        "name" : "Tesla Model-X",
+        "category" : "Tesla",
+        "img" : "https://i.ibb.co/LdLNnMv/tesla1.jpg",
+        "location" : "Dhaka",
+        "resale_price" : "10,00,000",
+        "original_price" : "20,00,000",
+        "years_of_use" : "3",
+        "posted_time" : "Sat Nov 26, 2022",
+        "seller_name" : "test",
+        "isVerifyed" : "true",
+        "isAdvertised" : "false",
+        "isReported" : "false"
+    },
+    {
+        "name" : "Tesla RoadStar",
+        "category" : "Tesla",
+        "img": "https://i.ibb.co/DDp4hkr/tesla2.jpg",
+        "location": "Cumilla",
+        "resale_price": "20,00,000",
+        "original_price": "30,00,000",
+        "years_of_use" : "2",
+        "posted_time": "Sat Nov 26, 2022",
+        "seller_name" : "test",
+        "isVerifyed" : "true",
+        "isAdvertised" : "false",
+        "isReported" : "false"
+    },
+    {
+        "name" : "Mercedes Benz-AMG G 63",
+        "category" : "Mercedes",
+        "img" : "https://i.ibb.co/fSbNSQV/mercedes1.jpg",
+        "location": "Chittagong",
+        "resale_price": "15,00,000",
+        "original_price": "20,00,000",
+        "years_of_use": "3",
+        "posted_time": "Sat Nov 26, 2022",
+        "seller_name" : "test",
+        "isVerifyed" : "true",
+        "isAdvertised" : "false",
+        "isReported" : "false"
+    },
+    {
+        "name" : "Mercedes-Benz GLE Coupe ",
+        "category" : "Mercedes",
+        "img" : "https://i.ibb.co/NF7Kd4L/mercedes2.jpg",
+        "location": "Khulna",
+        "resale_price": "12,00,000",
+        "original_price": "15,00,000",
+        "years_of_use": "5",
+        "posted_time" : "Sat Nov 26, 2022",
+        "seller_name" : "test",
+        "isVerifyed" : "true",
+        "isAdvertised" : "false",
+        "isReported" : "false"
+    },
+    {
+        "name" : "Audi a4",
+        "category" : "Audi",
+        "img" : "https://i.ibb.co/QP69zNb/audi1.jpg",
+        "location": "Sylhet",
+        "resale_price": "16,00,000",
+        "original_price": "20,00,000",
+        "years_of_use": "3",
+        "posted_time" : "Sat Nov 26, 2022",
+        "seller_name" : "test",
+        "isVerifyed" : "true",
+        "isAdvertised" : "false",
+        "isReported" : "false"
+    },
+    {
+        "name" : "Audi RS6",
+        "category" : "Audi",
+        "img" : "https://i.ibb.co/s2k6xWD/audi2.jpg",
+        "location": "Rajshahi",
+        "resale_price": "9,00,000",
+        "original_price": "12,00,000",
+        "years_of_use": "4",
+        "posted_time" : "Sat Nov 26, 2022",
+        "seller_name" : "test",
+        "isVerifyed" : "true",
+        "isAdvertised" : "false",
+        "isReported" : "false"
+    }
+]
+
+
