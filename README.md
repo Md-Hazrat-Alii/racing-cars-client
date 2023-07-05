@@ -25,7 +25,7 @@ pass: '123456'
 ### `Language or framework`
 
 - [https://rc-cars-1e083.web.app/](https://rc-cars-1e083.web.app/).
-- we use Html, Css, Bootstrap, React-bootstrap for design.
-- Js, React, React-Router used for functionality.
+- we use Html, Css, Bootstrap, React-bootstrap 
+- Js, React, React-Router, NodeJs, ExpressJs,  used for functionality.
 
 
